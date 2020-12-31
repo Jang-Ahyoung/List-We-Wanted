@@ -7,4 +7,4 @@
 > - 사용자는 나만의 리스트를 직접 등록할 수 있습니다.
 
 
-<img width="960" alt="리스트" src="https://user-images.githubusercontent.com/71692593/103169671-39a49300-4881-11eb-9f71-84c96455c27e.PNG">
+<img width="960" height="500" alt="리스트" src="https://user-images.githubusercontent.com/71692593/103169671-39a49300-4881-11eb-9f71-84c96455c27e.PNG">
