@@ -1,9 +1,15 @@
 <h1 align="center">🙌 Shopping List 🙌</h1>
-> html, javascript를 이용한 리스트 등록 및 삭제 프로그램 <br /> 
 
-[🏠 <b>homepage</b>](https://github.com/Jang-Ahyoung)
+![issue bedge](https://img.shields.io/badge/-html-yellow)  + ![issue bedge](https://img.shields.io/badge/-css-yellowgreen) + ![issue bedge](https://img.shields.io/badge/-javascript-blue)를 이용한 리스트 등록 및 삭제 프로그램 <br /> 
 
-## 🦸‍♂️ Demo 🦸‍♀️
+
+
+### ☃️ developer
+ - [장아영](https://github.com/Jang-Ahyoung)
+
+### 💙 [Go-Page](https://jang-ahyoung.github.io/List-We-Wanted/)
+
+### 🦸‍♂️ Demo 🦸‍♀️
 > - 사용자는 나만의 리스트를 직접 등록할 수 있습니다.
 
 
